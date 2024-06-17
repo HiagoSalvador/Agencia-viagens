@@ -7,7 +7,10 @@ function Muralhas_China(){
         <div className={styles.container}>
             <ComponenteProps
                 lugar=" Muralha da China"
-                texto="A Escócia foi largamente ocupada pela primeira vez ao final da última era glacial, no Paleolítico, aproximadamente 10 mil anos atrás. A Escócia pré-histórica entrou no Neolítico em cerca de 4.000 a.C., na Idade do Bronze em 2.000 a.C. e na Idade do Ferro por volta de 700 a.C.. A história da Escócia registrada começa com a chegada do Império Romano no século I. A província romana da Britania estendia-se para norte até a Muralha de Antonino, que ia do Estuário do rio Clyde ao Estuário do rio Forth. A norte estava o território da Caledônia, cujo povo era chamado de  pictos, que significa em latim, ‘os pintados’. Devido aos constantes assaltos dos pictos, as legiões romanas foram forçadas a recuar para a Muralha de Adriaque ia do Estuário do rio Clyde ao Estuário doque ia do Estuário do rio Clyde ao Estuário dono ao longo dos  anos de sua abandonando aquele território no começo do século " 
+                texto="A Muralha da China, também conhecida como Grande Muralha, é uma das estruturas mais icônicas e impressionantes do mundo. Construída ao longo de várias dinastias chinesas, sua construção começou no século III a.C., durante o reinado do primeiro imperador da China, Qin Shi Huang. A muralha foi expandida e reforçada por dinastias posteriores, incluindo a Han e a Ming.
+                Estendendo-se por aproximadamente 21.196 quilômetros, a Muralha da China foi originalmente erguida para proteger o império chinês de invasões e ataques de tribos nômades do norte. Feita de terra compactada, pedras e tijolos, a muralha atravessa montanhas, desertos e planícies, incorporando torres de vigilância e fortes ao longo de sua extensão.
+
+                Hoje, a Muralha da China é um símbolo de engenharia e determinação humana, além de ser uma importante atração turística que atrai milhões de visitantes de todo o mundo. Em 1987, foi declarada Patrimônio Mundial pela UNESCO, reconhecendo seu valor histórico e cultural. " 
                 bandeira = {bandeira}/>
         </div>
     )

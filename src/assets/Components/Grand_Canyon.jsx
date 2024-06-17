@@ -8,7 +8,9 @@ function Grand_canyon() {
         <div className={styles.container}>
             <ComponenteProps
                 lugar=" Grand Canyon"
-                texto="A Escócia foi largamente ocupada pela primeira vez ao final da última era glacial, no Paleolítico, aproximadamente 10 mil anos atrás. A Escócia pré-histórica entrou no Neolítico em cerca de 4.000 a.C., na Idade do Bronze em 2.000 a.C. e na Idade do Ferro por volta de 700 a.C.. A história da Escócia registrada começa com a chegada do Império Romano no século I. A província romana da Britania estendia-se para norte até a Muralha de Antonino, que ia do Estuário do rio Clyde ao Estuário do rio Forth. A norte estava o território da Caledônia, cujo povo era chamado de  pictos, que significa em latim, ‘os pintados’. Devido aos constantes assaltos dos pictos, as legiões romanas foram forçadas a recuar para a Muralha de Adriaque ia do Estuário do rio Clyde ao Estuário doque ia do Estuário do rio Clyde ao Estuário dono ao longo dos  anos de sua abandonando aquele território no começo do século " 
+                texto="O Grand Canyon, localizado no Arizona, EUA, é uma das maiores maravilhas naturais do mundo. Formado pelo Rio Colorado ao longo de milhões de anos, ele se estende por 446 quilômetros, com profundidades de até 1.857 metros. Suas camadas de rocha revelam cerca de dois bilhões de anos de história geológica.
+                Culturalmente, o Grand Canyon é significativo para várias tribos indígenas, incluindo os Havasupai e Navajo. Tornou-se um Parque Nacional em 1919 e recebe milhões de visitantes anualmente, que participam de atividades como caminhadas, acampamentos e rafting.
+                A conservação é uma prioridade para preservar seu ecossistema e beleza natural para as futuras gerações. " 
                 bandeira = {bandeira}/>
         </div>
     )

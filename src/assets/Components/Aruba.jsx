@@ -8,7 +8,10 @@ function Aruba(){
         <div className={styles.container}>
             <ComponenteProps
                 lugar=" Aruba"
-                texto="A Escócia foi largamente ocupada pela primeira vez ao final da última era glacial, no Paleolítico, aproximadamente 10 mil anos atrás. A Escócia pré-histórica entrou no Neolítico em cerca de 4.000 a.C., na Idade do Bronze em 2.000 a.C. e na Idade do Ferro por volta de 700 a.C.. A história da Escócia registrada começa com a chegada do Império Romano no século I. A província romana da Britania estendia-se para norte até a Muralha de Antonino, que ia do Estuário do rio Clyde ao Estuário do rio Forth. A norte estava o território da Caledônia, cujo povo era chamado de  pictos, que significa em latim, ‘os pintados’. Devido aos constantes assaltos dos pictos, as legiões romanas foram forçadas a recuar para a Muralha de Adriaque ia do Estuário do rio Clyde ao Estuário doque ia do Estuário do rio Clyde ao Estuário dono ao longo dos  anos de sua abandonando aquele território no começo do século " 
+                texto="Aruba é uma ilha caribenha famosa por suas praias de areia branca e águas cristalinas. Localizada ao norte da Venezuela, é parte do Reino dos Países Baixos. A ilha tem uma rica história, inicialmente habitada pelos índios Arawak e colonizada pelos holandeses no século XVII.
+                O turismo é a principal indústria de Aruba, com praias populares como Eagle Beach e Palm Beach, e atrações como o Parque Nacional Arikok. A capital, Oranjestad, é conhecida por sua arquitetura colorida e vibrante vida urbana.
+
+                Além do turismo, a economia de Aruba inclui a refinaria de petróleo e a produção de aloe vera. A ilha celebra festivais animados, como o Carnaval de Aruba, e tem uma cultura diversa com influências africanas, europeias e indígenas. " 
                 bandeira = {bandeira}/>
         </div>
     )
