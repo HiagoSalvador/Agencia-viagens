@@ -2,10 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../imagens/muralhas.jfif');
+    text-align: center;
+    background-image: url('../imagens/muralha-china.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 800px;
 
 }
 

@@ -1,13 +1,15 @@
 import { Link } from 'react-router-dom'
 import styles from './header.module.css'
-import logo from '../imagens/imagem (7).jfif'
+import logo from '../imagens/logo.jfif'
 import lupa from '../imagens/lupa.png'
 
 function Header() {
     return (
         <header>
             <div className={styles.logo}>
-                <img src={logo} alt="" />
+                <Link to="/">
+                    <img src={logo} alt="Logo" />
+                </Link>
             </div>
 
             <nav className={styles.nav_link}>

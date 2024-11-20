@@ -1,6 +1,7 @@
-import bandeira from '../imagens/bandeira_aruba.png'
-import styles from './escocia.module.css'
+import bandeira from '../imagens/bandeira-aruba.png'
+import styles from './aruba.module.css'
 import ComponenteProps from './ComponenteProps'
+
 
 
 function Aruba(){
@@ -13,6 +14,7 @@ function Aruba(){
 
                 Além do turismo, a economia de Aruba inclui a refinaria de petróleo e a produção de aloe vera. A ilha celebra festivais animados, como o Carnaval de Aruba, e tem uma cultura diversa com influências africanas, europeias e indígenas. " 
                 bandeira = {bandeira}/>
+               
         </div>
     )
 }

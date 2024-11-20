@@ -1,5 +1,5 @@
 import bandeira from '../imagens/bandeira_china.webp'
-import styles from './escocia.module.css'
+import styles from './muralhas_china.module.css'
 import ComponenteProps from './ComponenteProps'
 
 function Muralhas_China(){

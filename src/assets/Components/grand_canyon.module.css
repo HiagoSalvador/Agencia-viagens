@@ -2,10 +2,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../imagens/Grand_Canyon.jpg');
+    text-align: center;
+    background-image: url('../imagens/Grand-Canyon.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
+    height: 50rem;
+  
 
 }
 

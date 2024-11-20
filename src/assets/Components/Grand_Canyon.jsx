@@ -1,6 +1,6 @@
-import styles from './escocia.module.css'
+import styles from './grand_canyon.module.css'
 import ComponenteProps from './ComponenteProps'
-import bandeira from '../imagens/bandeira_canyon.jpg'
+import bandeira from '../imagens/bandeira-canyon.jpg'
 
 
 function Grand_canyon() {

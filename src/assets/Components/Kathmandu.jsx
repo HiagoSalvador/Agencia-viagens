@@ -1,5 +1,5 @@
-import bandeira from '../imagens/bandeira_kathmandu.png'
-import styles from './escocia.module.css'
+import bandeira from '../imagens/bandeira-kathmandu.png'
+import styles from './katimandu.module.css'
 import ComponenteProps from './ComponenteProps'
 Katimandu.jsx
 
